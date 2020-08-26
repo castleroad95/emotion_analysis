@@ -1,0 +1,830 @@
+,speaker,text,token
+0,MRS. MARCH,So youre going to Washington?,"['so', 'youre', 'going', 'to', 'washington']"
+1,MRS. MARCH,Oh.,['oh']
+2,MRS. MARCH,"Youve done a great deal for your country, sir.","['youve', 'done', 'a', 'great', 'deal', 'for', 'your', 'country', 'sir']"
+3,MRS. MARCH,Wait a minute.,"['wait', 'a', 'minute']"
+4,MRS. MARCH,Merry Christmas.,"['merry', 'christmas']"
+5,MRS. MARCH,"When I see things like that poor old man it makes me ashamed to 
+think how little I do.","['when', 'i', 'see', 'things', 'like', 'that', 'poor', 'old', 'man', 'it', 'makes', 'me', 'ashamed', 'to', 'think', 'how', 'little', 'i', 'do']"
+6,MRS. MARCH,"Yes, I know.","['yes', 'i', 'know']"
+7,MRS. MARCH,I couldnt bear it without them.,"['i', 'couldnt', 'bear', 'it', 'without', 'them']"
+8,MRS. MARCH,Meg is a nursery governess.,"['meg', 'is', 'a', 'nursery', 'governess']"
+9,MEG,"Remember Lilly, Santa Claus is watching you.","['remember', 'lilly', 'santa', 'claus', 'is', 'watching', 'you']"
+10,JO,"We know as well what are the baneful fruits of selfishness and 
+self- indulgence.","['we', 'know', 'as', 'well', 'what', 'are', 'the', 'baneful', 'fruits', 'of', 'selfishness', 'and', 'self', 'indulgence']"
+11,AUNT MARCH,Hold your tongue!,"['hold', 'your', 'tongue']"
+12,JO,"Oh, I didnt think youd mind.","['oh', 'i', 'didnt', 'think', 'youd', 'mind']"
+13,AUNT MARCH,Never a thought about my Christmas.,"['never', 'a', 'thought', 'about', 'my', 'christmas']"
+14,JO,"Oh, Im sorry, Aunt March.","['oh', 'im', 'sorry', 'aunt', 'march']"
+15,AUNT MARCH,Merry Christmas.,"['merry', 'christmas']"
+16,JO,"Thank you, Auntie.","['thank', 'you', 'auntie']"
+17,AUNT MARCH,Never mind thanking me.,"['never', 'mind', 'thanking', 'me']"
+18,JO,"Theres nobody looking after us, and we dont ask favors from 
+anybody.","['theres', 'nobody', 'looking', 'after', 'us', 'and', 'we', 'dont', 'ask', 'favors', 'from', 'anybody']"
+19,AUNT MARCH,Hoity Toity.,"['hoity', 'toity']"
+20,JO,"Oh, Im sorry, Auntie.","['oh', 'im', 'sorry', 'auntie']"
+21,AUNT MARCH,It isnt preachers thats going to win this war.,"['it', 'isnt', 'preachers', 'thats', 'going', 'to', 'win', 'this', 'war']"
+22,JO,"Yes, Auntie.","['yes', 'auntie']"
+23,AUNT MARCH,"Oh, go on.","['oh', 'go', 'on']"
+24,JO,"Yes, Auntie.","['yes', 'auntie']"
+25,AUNT MARCH,"Did you wash those tea cups and put them away, carefully?","['did', 'you', 'wash', 'those', 'tea', 'cups', 'and', 'put', 'them', 'away', 'carefully']"
+26,JO,"Yes, Auntie.","['yes', 'auntie']"
+27,AUNT MARCH,You didnt break any?,"['you', 'didnt', 'break', 'any']"
+28,JO,"No, Auntie.","['no', 'auntie']"
+29,AUNT MARCH,What about the teaspoons?,"['what', 'about', 'the', 'teaspoons']"
+30,JO,I polished them.,"['i', 'polished', 'them']"
+31,AUNT MARCH,"Oh, very well then.","['oh', 'very', 'well', 'then']"
+32,JO,"Yes, Auntie.","['yes', 'auntie']"
+33,MR. DAVIS,Thank you very much Ladies.,"['thank', 'you', 'very', 'much', 'ladies']"
+34,MR. DAVIS,School is dismissed.,"['school', 'is', 'dismissed']"
+35,MR. DAVIS,"Amy March, you may close the door.","['amy', 'march', 'you', 'may', 'close', 'the', 'door']"
+36,MR. DAVIS,"I can see theres nothing for me to do but stop by and show you 
+mother how, instead of doing your sums, you cover your slate with 
+sketches_c and most uncomplimentary sketches.","['i', 'can', 'see', 'theres', 'nothing', 'for', 'me', 'to', 'do', 'but', 'stop', 'by', 'and', 'show', 'you', 'mother', 'how', 'instead', 'of', 'doing', 'your', 'sums', 'you', 'cover', 'your', 'slate', 'with', 'sketches', 'c', 'and', 'most', 'uncomplimentary', 'sketches']"
+37,AMY,"Oh, please Mr. Davis.","['oh', 'please', 'mr', 'davis']"
+38,MR. DAVIS,"Well, I should hate to spoil her Christmas.","['well', 'i', 'should', 'hate', 'to', 'spoil', 'her', 'christmas']"
+39,AMY,"Oh, thank you, Mr. Davis.","['oh', 'thank', 'you', 'mr', 'davis']"
+40,MR. DAVIS,You may go.,"['you', 'may', 'go']"
+41,AMY,"Oh, thank you, Mr. Davis.","['oh', 'thank', 'you', 'mr', 'davis']"
+42,AMY,"I just said that if I ever told my mother the way he treated me 
+shed take me out of his old school.","['i', 'just', 'said', 'that', 'if', 'i', 'ever', 'told', 'my', 'mother', 'the', 'way', 'he', 'treated', 'me', 'shed', 'take', 'me', 'out', 'of', 'his', 'old', 'school']"
+43,BETH,"Oh, Hello.","['oh', 'hello']"
+44,HANNAH,"Thank you, Beth.","['thank', 'you', 'beth']"
+45,BETH,Are they coming?,"['are', 'they', 'coming']"
+46,HANNAH,Just passed the Laurence house.,"['just', 'passed', 'the', 'laurence', 'house']"
+47,JO,Christopher Columbus.,"['christopher', 'columbus']"
+48,MEG,Joe!,['joe']
+49,JO,I dont care.,"['i', 'dont', 'care']"
+50,MR. LAURENCE,How do you do?,"['how', 'do', 'you', 'do']"
+51,AMY,Makes my knees chatter just to look at him.,"['makes', 'my', 'knees', 'chatter', 'just', 'to', 'look', 'at', 'him']"
+52,JO,"I feel sorry for that poor boy shut up all alone with such an old 
+ogre for a grandfather.","['i', 'feel', 'sorry', 'for', 'that', 'poor', 'boy', 'shut', 'up', 'all', 'alone', 'with', 'such', 'an', 'old', 'ogre', 'for', 'a', 'grandfather']"
+53,AMY,Where?,['where']
+54,MEG,"Dont point, Joe.","['dont', 'point', 'joe']"
+55,JO,Hes gone anyway.,"['hes', 'gone', 'anyway']"
+56,MEG,Jo!,['jo']
+57,LAURIE,Hey!,['hey']
+58,BETH,Jo.,['jo']
+59,JO,Merry Christmas from Aunt March.,"['merry', 'christmas', 'from', 'aunt', 'march']"
+60,BETH,For me?,"['for', 'me']"
+61,JO,"Yes, darling.","['yes', 'darling']"
+62,AMY,"We got one, too.","['we', 'got', 'one', 'too']"
+63,MEG,"What are you going to do with it, dear?","['what', 'are', 'you', 'going', 'to', 'do', 'with', 'it', 'dear']"
+64,BETH,I dont know.,"['i', 'dont', 'know']"
+65,JO,"A dollar couldnt do the army much good, so Im going to buy 
+Undine and Sintram.","['a', 'dollar', 'couldnt', 'do', 'the', 'army', 'much', 'good', 'so', 'im', 'going', 'to', 'buy', 'undine', 'and', 'sintram']"
+66,MEG,Im sure Marmee would approve if I got some new gloves.,"['im', 'sure', 'marmee', 'would', 'approve', 'if', 'i', 'got', 'some', 'new', 'gloves']"
+67,AMY,I should get a nice box of Fabers drawing pencils.,"['i', 'should', 'get', 'a', 'nice', 'box', 'of', 'fabers', 'drawing', 'pencils']"
+68,BETH,Then _c Then Id like to spend mine for some new music.,"['then', 'c', 'then', 'id', 'like', 'to', 'spend', 'mine', 'for', 'some', 'new', 'music']"
+69,JO,Lets each buy what we want and have a little fun.,"['lets', 'each', 'buy', 'what', 'we', 'want', 'and', 'have', 'a', 'little', 'fun']"
+70,MEG,"Well, I know I do.","['well', 'i', 'know', 'i', 'do']"
+71,JO,"Well, what would you do if you were shut up all day with a fussy 
+old crosspatch who flies off the handle every move you make.","['well', 'what', 'would', 'you', 'do', 'if', 'you', 'were', 'shut', 'up', 'all', 'day', 'with', 'a', 'fussy', 'old', 'crosspatch', 'who', 'flies', 'off', 'the', 'handle', 'every', 'move', 'you', 'make']"
+72,AMY,"Joe, dont use slang.","['joe', 'dont', 'use', 'slang']"
+73,JO,"""Liable"", ""liable"".","['liable', 'liable']"
+74,AMY,"I know what I mean and you neednt be ""statirical"" about it.","['i', 'know', 'what', 'i', 'mean', 'and', 'you', 'neednt', 'be', 'statirical', 'about', 'it']"
+75,JO,Arent we elegant?,"['arent', 'we', 'elegant']"
+76,AMY,Youd never be thought so with your slang and manners.,"['youd', 'never', 'be', 'thought', 'so', 'with', 'your', 'slang', 'and', 'manners']"
+77,JO,I hope not.,"['i', 'hope', 'not']"
+78,AMY,"Well, you neednt whistle like a boy.","['well', 'you', 'neednt', 'whistle', 'like', 'a', 'boy']"
+79,JO,Thats why I do it.,"['thats', 'why', 'i', 'do', 'it']"
+80,AMY,"Oh, I detest rude unladylike girls.","['oh', 'i', 'detest', 'rude', 'unladylike', 'girls']"
+81,JO,"I hate affected, niminy-piminy chits.","['i', 'hate', 'affected', 'niminy', 'piminy', 'chits']"
+82,BETH,Birds in their little nests agree.,"['birds', 'in', 'their', 'little', 'nests', 'agree']"
+83,MEG,"Really, youre both to blame.","['really', 'youre', 'both', 'to', 'blame']"
+84,JO,"No, Im not.","['no', 'im', 'not']"
+85,MEG,Jo!,['jo']
+86,BETH,Look.,['look']
+87,MEG,"Youre a dear, and nothing else.","['youre', 'a', 'dear', 'and', 'nothing', 'else']"
+88,JO,"Were_cWere three ungrateful wretches, who dont deserve you.","['were', 'cwere', 'three', 'ungrateful', 'wretches', 'who', 'dont', 'deserve', 'you']"
+89,AMY,"Well, I cant help it.","['well', 'i', 'cant', 'help', 'it']"
+90,JO,"Oh, its easy, if youll only watch me.","['oh', 'its', 'easy', 'if', 'youll', 'only', 'watch', 'me']"
+91,AMY,"If I can drop gracefully, Ill...
+
+JO
+Now, now.","['if', 'i', 'can', 'drop', 'gracefully', 'ill', 'jo', 'now', 'now']"
+92,JO,"Now, now.","['now', 'now']"
+93,AMY,Roderigo!,['roderigo']
+94,MRS. MARCH,"Glad to find you so merry, my girls.","['glad', 'to', 'find', 'you', 'so', 'merry', 'my', 'girls']"
+95,AMY,Darling.,['darling']
+96,MRS. MARCH,"Hows your cold, Meg?","['hows', 'your', 'cold', 'meg']"
+97,MEG,Much better.,"['much', 'better']"
+98,MRS. MARCH,Beth deary.,"['beth', 'deary']"
+99,JO,"No, Marmee.","['no', 'marmee']"
+100,BETH,Mmm.,['mmm']
+101,MRS. MARCH,Oh.,['oh']
+102,BETH,"Did you have a hard day, Marmee?","['did', 'you', 'have', 'a', 'hard', 'day', 'marmee']"
+103,MRS. MARCH,No.,['no']
+104,BETH,A letter from father!,"['a', 'letter', 'from', 'father']"
+105,MRS. MARCH,"""Give them all my dear love and a kiss.","['give', 'them', 'all', 'my', 'dear', 'love', 'and', 'a', 'kiss']"
+106,AMY,"I_c.I am a selfish girl, but Ill truly try to be better and not 
+waste my time in school, so that father maynt be disappointed in 
+me.","['i', 'c', 'i', 'am', 'a', 'selfish', 'girl', 'but', 'ill', 'truly', 'try', 'to', 'be', 'better', 'and', 'not', 'waste', 'my', 'time', 'in', 'school', 'so', 'that', 'father', 'maynt', 'be', 'disappointed', 'in', 'me']"
+107,JO,"Ill try and be what he loves to call me, a little woman, and 
+not be rough and wild; and do my duty here at home instead of 
+always wanting to go to war to help father.","['ill', 'try', 'and', 'be', 'what', 'he', 'loves', 'to', 'call', 'me', 'a', 'little', 'woman', 'and', 'not', 'be', 'rough', 'and', 'wild', 'and', 'do', 'my', 'duty', 'here', 'at', 'home', 'instead', 'of', 'always', 'wanting', 'to', 'go', 'to', 'war', 'to', 'help', 'father']"
+108,MEG,"Im_c Im not going to be envious anymore, if I can help it.","['im', 'c', 'im', 'not', 'going', 'to', 'be', 'envious', 'anymore', 'if', 'i', 'can', 'help', 'it']"
+109,MRS. MARCH,"Now well save the rest till after tea, for its such a lovely 
+long letter.","['now', 'well', 'save', 'the', 'rest', 'till', 'after', 'tea', 'for', 'its', 'such', 'a', 'lovely', 'long', 'letter']"
+110,BETH,Lets_c.,"['lets', 'c']"
+111,JO,"Thats like you, Beth.","['thats', 'like', 'you', 'beth']"
+112,MEG,I shall get her a nice pair of gloves.,"['i', 'shall', 'get', 'her', 'a', 'nice', 'pair', 'of', 'gloves']"
+113,JO,New slippers!,"['new', 'slippers']"
+114,BETH,"Some new handkerchiefs, all hemmed.","['some', 'new', 'handkerchiefs', 'all', 'hemmed']"
+115,AMY,A beautiful little bottle of cologne.,"['a', 'beautiful', 'little', 'bottle', 'of', 'cologne']"
+116,JO,Im finished with Asia.,"['im', 'finished', 'with', 'asia']"
+117,BETH,And heres Europe.,"['and', 'heres', 'europe']"
+118,AMY,Three more stitches and you can have Africa.,"['three', 'more', 'stitches', 'and', 'you', 'can', 'have', 'africa']"
+119,MRS. MARCH,"Not too long stitches, dear.","['not', 'too', 'long', 'stitches', 'dear']"
+120,MEG,"If you pass me the scissors, Ill give you America.","['if', 'you', 'pass', 'me', 'the', 'scissors', 'ill', 'give', 'you', 'america']"
+121,MRS. MARCH,"There, you see, you did finish it after all.","['there', 'you', 'see', 'you', 'did', 'finish', 'it', 'after', 'all']"
+122,BETH,"Oh, but we never should have if Joe hadnt made a game of it, and 
+thought of talking of the different countries as we worked.","['oh', 'but', 'we', 'never', 'should', 'have', 'if', 'joe', 'hadnt', 'made', 'a', 'game', 'of', 'it', 'and', 'thought', 'of', 'talking', 'of', 'the', 'different', 'countries', 'as', 'we', 'worked']"
+123,MRS. MARCH,"It was a nice idea, Jo.","['it', 'was', 'a', 'nice', 'idea', 'jo']"
+124,JO,I can see us all now.,"['i', 'can', 'see', 'us', 'all', 'now']"
+125,MRS. MARCH,"You have real burdens now, instead of rag bags, according to what 
+I heard before tea.","['you', 'have', 'real', 'burdens', 'now', 'instead', 'of', 'rag', 'bags', 'according', 'to', 'what', 'i', 'heard', 'before', 'tea']"
+126,BETH,"Yes, I have.","['yes', 'i', 'have']"
+127,JO,A piano is a burden.,"['a', 'piano', 'is', 'a', 'burden']"
+128,MRS. MARCH,"Good night, my precious.","['good', 'night', 'my', 'precious']"
+129,MEG,"Good night, Marmee.","['good', 'night', 'marmee']"
+130,MRS. MARCH,"Good night, Joe, my girl.","['good', 'night', 'joe', 'my', 'girl']"
+131,JO,"Good night, Marmee.","['good', 'night', 'marmee']"
+132,AMY,"Good night, darling.","['good', 'night', 'darling']"
+133,MRS. MARCH,"Good night, my baby.","['good', 'night', 'my', 'baby']"
+134,BETH,"Good night, Marmee.","['good', 'night', 'marmee']"
+135,MRS. MARCH,"Good night, Bethy.","['good', 'night', 'bethy']"
+136,JO,"Merry Christmas, Hannah.","['merry', 'christmas', 'hannah']"
+137,HANNAH,"Oh, Merry Christmas.","['oh', 'merry', 'christmas']"
+138,JO,Wheres Marmee?,"['wheres', 'marmee']"
+139,HANNAH,She just went down the street.,"['she', 'just', 'went', 'down', 'the', 'street']"
+140,JO,Come round here.,"['come', 'round', 'here']"
+141,MEG,"Amy, what have you been doing?","['amy', 'what', 'have', 'you', 'been', 'doing']"
+142,AMY,"Dont laugh, Jo.","['dont', 'laugh', 'jo']"
+143,BETH,Amy!,['amy']
+144,MEG,Darling!,['darling']
+145,JO,"Youre some pumpkins, Amy.","['youre', 'some', 'pumpkins', 'amy']"
+146,AMY,I felt ashamed thinking only of myself.,"['i', 'felt', 'ashamed', 'thinking', 'only', 'of', 'myself']"
+147,BETH,"Amy, my prettiest rose.","['amy', 'my', 'prettiest', 'rose']"
+148,AMY,"And Im so glad, because mines the handsomest now.","['and', 'im', 'so', 'glad', 'because', 'mines', 'the', 'handsomest', 'now']"
+149,JO,Shell be back any minute.,"['shell', 'be', 'back', 'any', 'minute']"
+150,AMY,"Oh, Hannah.","['oh', 'hannah']"
+151,JO,"Oh, Hannah, what is it?","['oh', 'hannah', 'what', 'is', 'it']"
+152,MEG,Sausages.,['sausages']
+153,BETH,Popovers.,['popovers']
+154,AMY,Theyre my favorite!,"['theyre', 'my', 'favorite']"
+155,JO,Coffee!,['coffee']
+156,HANNAH,You neednt make such a fuss about it.,"['you', 'neednt', 'make', 'such', 'a', 'fuss', 'about', 'it']"
+157,JO,No!,['no']
+158,AMY,"Oh, Hannah.","['oh', 'hannah']"
+159,JO,I could tell her!,"['i', 'could', 'tell', 'her']"
+160,MEG,Jo!,['jo']
+161,AMY,Jo!,['jo']
+162,JO,Two each.,"['two', 'each']"
+163,MEG,Shes coming!,"['shes', 'coming']"
+164,JO,Hurry up!,"['hurry', 'up']"
+165,AMY,Enter Marmee.,"['enter', 'marmee']"
+166,MRS. MARCH,"Merry Christmas, my _c.","['merry', 'christmas', 'my', 'c']"
+167,JO,These are from me.,"['these', 'are', 'from', 'me']"
+168,MRS. MARCH,"Oh, Jo.","['oh', 'jo']"
+169,JO,"Well, I can tell you how hungry I am.","['well', 'i', 'can', 'tell', 'you', 'how', 'hungry', 'i', 'am']"
+170,MRS. MARCH,"Wait a minute, girls.","['wait', 'a', 'minute', 'girls']"
+171,JO,Im so glad you came back before we started.,"['im', 'so', 'glad', 'you', 'came', 'back', 'before', 'we', 'started']"
+172,MRS. MARCH,I knew you would.,"['i', 'knew', 'you', 'would']"
+173,AMY,"May I carry some things, Marmee?","['may', 'i', 'carry', 'some', 'things', 'marmee']"
+174,MRS. MARCH,We should all go.,"['we', 'should', 'all', 'go']"
+175,JO,Ill get some firewood.,"['ill', 'get', 'some', 'firewood']"
+176,MEG,Ill take the greens.,"['ill', 'take', 'the', 'greens']"
+177,BETH,Ill take the bread.,"['ill', 'take', 'the', 'bread']"
+178,AMY,Ill take the pop-overs.,"['ill', 'take', 'the', 'pop', 'overs']"
+179,MRS. MARCH,"Here we are, Mrs. Hummel.","['here', 'we', 'are', 'mrs', 'hummel']"
+180,JO,Funny angels in hoods and mittens.,"['funny', 'angels', 'in', 'hoods', 'and', 'mittens']"
+181,AMY,Strange.,['strange']
+182,AMY,And why?,"['and', 'why']"
+183,BETH,"Ah, your highness.","['ah', 'your', 'highness']"
+184,JO,Haha.,['haha']
+185,AMY,Roderigo!,['roderigo']
+186,JO,And now to carry out my fell design.,"['and', 'now', 'to', 'carry', 'out', 'my', 'fell', 'design']"
+187,AMY,"Well, I told you I wasnt going to make myself_c.","['well', 'i', 'told', 'you', 'i', 'wasnt', 'going', 'to', 'make', 'myself', 'c']"
+188,MEG,Come on.,"['come', 'on']"
+189,JO,"Sh_c
+
+MEG
+Come on.","['sh', 'c', 'meg', 'come', 'on']"
+190,AMY,Have pity!,"['have', 'pity']"
+191,JO,"Turn, else you ruin the day you spurn Black Hugos love.","['turn', 'else', 'you', 'ruin', 'the', 'day', 'you', 'spurn', 'black', 'hugos', 'love']"
+192,AMY,Oh me.,"['oh', 'me']"
+193,JO,Zara!,['zara']
+194,AMY,Roderigo!,['roderigo']
+195,JO,(Roderigo sings and plays guitar.,"['roderigo', 'sings', 'and', 'plays', 'guitar']"
+196,JO,"Its alright, everyone.","['its', 'alright', 'everyone']"
+197,HANNAH,"Young ladies, will you all please come in to supper.","['young', 'ladies', 'will', 'you', 'all', 'please', 'come', 'in', 'to', 'supper']"
+198,JO,Christopher Columbus!,"['christopher', 'columbus']"
+199,AMY,Is it fairies?,"['is', 'it', 'fairies']"
+200,BETH,Its Santa Claus.,"['its', 'santa', 'claus']"
+201,MEG,Mother did it.,"['mother', 'did', 'it']"
+202,JO,Aunt March had a good fit and sent it.,"['aunt', 'march', 'had', 'a', 'good', 'fit', 'and', 'sent', 'it']"
+203,MRS. MARCH,All wrong.,"['all', 'wrong']"
+204,AMY,"Oh, no.LITTLE 
+
+GIRL
+Whos Mr. Laurence?","['oh', 'no', 'little', 'girl', 'whos', 'mr', 'laurence']"
+205,JO,The Laurence boys grandfather.,"['the', 'laurence', 'boys', 'grandfather']"
+206,MRS. MARCH,"He heard what you did about your breakfast and sent me a nice 
+note this afternoon saying he hoped I would allow him to express 
+his friendly feelings toward my children and send them a few 
+trifles in honor of the day.","['he', 'heard', 'what', 'you', 'did', 'about', 'your', 'breakfast', 'and', 'sent', 'me', 'a', 'nice', 'note', 'this', 'afternoon', 'saying', 'he', 'hoped', 'i', 'would', 'allow', 'him', 'to', 'express', 'his', 'friendly', 'feelings', 'toward', 'my', 'children', 'and', 'send', 'them', 'a', 'few', 'trifles', 'in', 'honor', 'of', 'the', 'day']"
+207,JO,The boy put it into his head.,"['the', 'boy', 'put', 'it', 'into', 'his', 'head']"
+208,BETH,"Oh, I wish father were here.","['oh', 'i', 'wish', 'father', 'were', 'here']"
+209,LAURIE,Hello.,['hello']
+210,JO,How do you do?,"['how', 'do', 'you', 'do']"
+211,LAURIE,"Just a little cold, but Grandfathers made me stop indoors for a 
+week.","['just', 'a', 'little', 'cold', 'but', 'grandfathers', 'made', 'me', 'stop', 'indoors', 'for', 'a', 'week']"
+212,JO,"Oh, thats too bad.","['oh', 'thats', 'too', 'bad']"
+213,LAURIE,If they would.,"['if', 'they', 'would']"
+214,JO,Wait.,['wait']
+215,LAURIE,"How do you do, Miss March?","['how', 'do', 'you', 'do', 'miss', 'march']"
+216,JO,"How do you do, Mr. Laurence?","['how', 'do', 'you', 'do', 'mr', 'laurence']"
+217,LAURIE,Thank you.,"['thank', 'you']"
+218,JO,And _c um _c Beth lent you these until youre will.,"['and', 'c', 'um', 'c', 'beth', 'lent', 'you', 'these', 'until', 'youre', 'will']"
+219,LAURIE,"Well, maybe theyll help to liven things up.","['well', 'maybe', 'theyll', 'help', 'to', 'liven', 'things', 'up']"
+220,JO,Huh?!,['huh']
+221,LAURIE,Wont you come in?,"['wont', 'you', 'come', 'in']"
+222,JO,"Oh, no.","['oh', 'no']"
+223,LAURIE,"Oh, please.","['oh', 'please']"
+224,JO,Oh?,['oh']
+225,LAURIE,"How many, please?","['how', 'many', 'please']"
+226,JO,"Two, please.","['two', 'please']"
+227,LAURIE,Oh_c.,"['oh', 'c']"
+228,JO,Im going to Europe.,"['im', 'going', 'to', 'europe']"
+229,LAURIE,Really?,['really']
+230,JO,I dont know.,"['i', 'dont', 'know']"
+231,LAURIE,No.,['no']
+232,JO,Nope.,['nope']
+233,LAURIE,Im not Mr. Laurence.,"['im', 'not', 'mr', 'laurence']"
+234,JO,"Well, Laurie.","['well', 'laurie']"
+235,LAURIE,"Well, its strange after living in schools all my life.","['well', 'its', 'strange', 'after', 'living', 'in', 'schools', 'all', 'my', 'life']"
+236,JO,"Oh, yes!","['oh', 'yes']"
+237,LAURIE,Isnt he a holy terror?,"['isnt', 'he', 'a', 'holy', 'terror']"
+238,JO,"Oh, you oughta see my Aunt March!","['oh', 'you', 'oughta', 'see', 'my', 'aunt', 'march']"
+239,LAURIE,"Oh, its too pretty to eat.","['oh', 'its', 'too', 'pretty', 'to', 'eat']"
+240,JO,And I wish _c.,"['and', 'i', 'wish', 'c']"
+241,LAURIE,Amy?,['amy']
+242,JO,Yes.,['yes']
+243,LAURIE,"Why, I often hear you calling to one another.","['why', 'i', 'often', 'hear', 'you', 'calling', 'to', 'one', 'another']"
+244,JO,Well never draw that curtain anymore.,"['well', 'never', 'draw', 'that', 'curtain', 'anymore']"
+245,LAURIE,And would you let me be in a play?,"['and', 'would', 'you', 'let', 'me', 'be', 'in', 'a', 'play']"
+246,JO,"Oh, that was terrible.","['oh', 'that', 'was', 'terrible']"
+247,LAURIE,I could do Laertes.,"['i', 'could', 'do', 'laertes']"
+248,JO,Really?,['really']
+249,LAURIE,Yes!,['yes']
+250,JO,Splendid!,['splendid']
+251,LAURIE,Here.,['here']
+252,JO,Oh!,['oh']
+253,LAURIE,"""Say you so.","['say', 'you', 'so']"
+254,JO,"""A hit; what say you?""","['a', 'hit', 'what', 'say', 'you']"
+255,LAURIE,"""A touch.","['a', 'touch']"
+256,MR. LAURENCE,What is this?,"['what', 'is', 'this']"
+257,LAURIE,"""Have at you, now.""","['have', 'at', 'you', 'now']"
+258,JO,Oh?,['oh']
+259,LAURIE,"Oh, I say.","['oh', 'i', 'say']"
+260,JO,"Oh, no.","['oh', 'no']"
+261,LAURIE,Im sorry.,"['im', 'sorry']"
+262,JO,"Oh, what are you talking about?","['oh', 'what', 'are', 'you', 'talking', 'about']"
+263,JO,"His eyes are kind and I like him, though he does bark at you so.","['his', 'eyes', 'are', 'kind', 'and', 'i', 'like', 'him', 'though', 'he', 'does', 'bark', 'at', 'you', 'so']"
+264,MR. LAURENCE,"Thank you, maam.","['thank', 'you', 'maam']"
+265,JO,"No, sir.","['no', 'sir']"
+266,MR. LAURENCE,But my face will frighten some people.,"['but', 'my', 'face', 'will', 'frighten', 'some', 'people']"
+267,JO,"Oh, I_c.","['oh', 'i', 'c']"
+268,MR. LAURENCE,"And I bark, do I?","['and', 'i', 'bark', 'do', 'i']"
+269,JO,"Oh, no, sir.","['oh', 'no', 'sir']"
+270,MR. LAURENCE,"But with all that you like me, eh?","['but', 'with', 'all', 'that', 'you', 'like', 'me', 'eh']"
+271,JO,"Oh, yes, sir.","['oh', 'yes', 'sir']"
+272,MR. LAURENCE,And I like you.,"['and', 'i', 'like', 'you']"
+273,JO,"Oh, sir.","['oh', 'sir']"
+274,LAURIE,"Grandfather, you should see her fence.","['grandfather', 'you', 'should', 'see', 'her', 'fence']"
+275,JO,"Oh, no.","['oh', 'no']"
+276,LAURIE,"Well, Ill see you home.","['well', 'ill', 'see', 'you', 'home']"
+277,MR. LAURENCE,"Oh, no, no, no.","['oh', 'no', 'no', 'no']"
+278,LAURIE,"Good bye, Jo.","['good', 'bye', 'jo']"
+279,HANNAH,Here they come.,"['here', 'they', 'come']"
+280,MRS. MARCH,"Oh, Amy.","['oh', 'amy']"
+281,BETH,"Oh, Marmee, I wish Laurie hadnt asked me to his party.","['oh', 'marmee', 'i', 'wish', 'laurie', 'hadnt', 'asked', 'me', 'to', 'his', 'party']"
+282,MRS. MARCH,You wouldnt want to hurt his feelings when hes been so kind.,"['you', 'wouldnt', 'want', 'to', 'hurt', 'his', 'feelings', 'when', 'hes', 'been', 'so', 'kind']"
+283,MRS. MARCH,"Jo, you look splendid.","['jo', 'you', 'look', 'splendid']"
+284,JO,"Well, I feel perfectly miserable with 19 hairpins all sticking 
+straight into my head.","['well', 'i', 'feel', 'perfectly', 'miserable', 'with', '19', 'hairpins', 'all', 'sticking', 'straight', 'into', 'my', 'head']"
+285,MRS. MARCH,Does the patch show much?,"['does', 'the', 'patch', 'show', 'much']"
+286,MEG,"It does a little, Marmee.","['it', 'does', 'a', 'little', 'marmee']"
+287,JO,"Oh, well, Ive stained them so Im gonna go without.","['oh', 'well', 'ive', 'stained', 'them', 'so', 'im', 'gonna', 'go', 'without']"
+288,MEG,"You wear gloves, or I dont go.","['you', 'wear', 'gloves', 'or', 'i', 'dont', 'go']"
+289,HANNAH,I tried to clean them bit it only made them look worse.,"['i', 'tried', 'to', 'clean', 'them', 'bit', 'it', 'only', 'made', 'them', 'look', 'worse']"
+290,JO,"Oh, here.","['oh', 'here']"
+291,MEG,"Oh, Jo.","['oh', 'jo']"
+292,JO,Well Ill tell you.,"['well', 'ill', 'tell', 'you']"
+293,MEG,All right.,"['all', 'right']"
+294,AMY,"And above everything, dont say ""Christopher Columbus"" and 
+disgrace us all.","['and', 'above', 'everything', 'dont', 'say', 'christopher', 'columbus', 'and', 'disgrace', 'us', 'all']"
+295,JO,"Oh, hold you tongue, Miss Baby.","['oh', 'hold', 'you', 'tongue', 'miss', 'baby']"
+296,JO,"No, thank you.","['no', 'thank', 'you']"
+297,AMY,Theres that Kitty Ford.,"['theres', 'that', 'kitty', 'ford']"
+298,BETH,Where?,['where']
+299,AMY,"There, with the pink dress and the blue sash.","['there', 'with', 'the', 'pink', 'dress', 'and', 'the', 'blue', 'sash']"
+300,BETH,"Oh, that beautiful piano.","['oh', 'that', 'beautiful', 'piano']"
+301,MR. LAURENCE,Um_c Whats this?,"['um', 'c', 'whats', 'this']"
+302,AMY,Mother said we werent to go down with the grown-ups.,"['mother', 'said', 'we', 'werent', 'to', 'go', 'down', 'with', 'the', 'grown', 'ups']"
+303,MR. LAURENCE,But can you see anything from here?,"['but', 'can', 'you', 'see', 'anything', 'from', 'here']"
+304,AMY,She just likes to listen to the music.,"['she', 'just', 'likes', 'to', 'listen', 'to', 'the', 'music']"
+305,MR. LAURENCE,You just come down with me where its playing.,"['you', 'just', 'come', 'down', 'with', 'me', 'where', 'its', 'playing']"
+306,BETH,"Oh, no.","['oh', 'no']"
+307,MR. LAURENCE,Why not?,"['why', 'not']"
+308,AMY,She has an infirmity.,"['she', 'has', 'an', 'infirmity']"
+309,MR. LAURENCE,Mmm?,['mmm']
+310,AMY,Shes shy.,"['shes', 'shy']"
+311,MR. LAURENCE,"Oh, I see.","['oh', 'i', 'see']"
+312,AMY,"If it werent for that, shed be simply fastitidious because she 
+plays beautifully.","['if', 'it', 'werent', 'for', 'that', 'shed', 'be', 'simply', 'fastitidious', 'because', 'she', 'plays', 'beautifully']"
+313,MR. LAURENCE,"Oh, she must come and play for me sometime.","['oh', 'she', 'must', 'come', 'and', 'play', 'for', 'me', 'sometime']"
+314,AMY,No.,['no']
+315,MR. LAURENCE,"Oh, it wasnt that I wanted to hear her, but that piano down 
+there is simply going to ruin for want of use.","['oh', 'it', 'wasnt', 'that', 'i', 'wanted', 'to', 'hear', 'her', 'but', 'that', 'piano', 'down', 'there', 'is', 'simply', 'going', 'to', 'ruin', 'for', 'want', 'of', 'use']"
+316,BETH,"Oh, sir.","['oh', 'sir']"
+317,MR. LAURENCE,So.,['so']
+318,BETH,Im Beth.,"['im', 'beth']"
+319,MR. LAURENCE,"Not a soul, my child.","['not', 'a', 'soul', 'my', 'child']"
+320,AMY,"Beth, isnt he elegant?","['beth', 'isnt', 'he', 'elegant']"
+321,LAURIE,"This is the German, and Ill be hanged if I let you refuse me all 
+of them.","['this', 'is', 'the', 'german', 'and', 'ill', 'be', 'hanged', 'if', 'i', 'let', 'you', 'refuse', 'me', 'all', 'of', 'them']"
+322,JO,"Oh, no.","['oh', 'no']"
+323,LAURIE,Dont you like to dance?,"['dont', 'you', 'like', 'to', 'dance']"
+324,JO,"Oh, yes.","['oh', 'yes']"
+325,LAURIE,Why?,['why']
+326,JO,"Oh, well, I may as well tell you.","['oh', 'well', 'i', 'may', 'as', 'well', 'tell', 'you']"
+327,LAURIE,Silence to the death.,"['silence', 'to', 'the', 'death']"
+328,JO,"Well, you see, I have a bad trick of standing in front of the 
+fire and I scorch my frocks, and I burned this one.","['well', 'you', 'see', 'i', 'have', 'a', 'bad', 'trick', 'of', 'standing', 'in', 'front', 'of', 'the', 'fire', 'and', 'i', 'scorch', 'my', 'frocks', 'and', 'i', 'burned', 'this', 'one']"
+329,LAURIE,Where?,['where']
+330,JO,"Oh, you can laugh if you want to.","['oh', 'you', 'can', 'laugh', 'if', 'you', 'want', 'to']"
+331,LAURIE,Look!,['look']
+332,JO,Youre a Champ.,"['youre', 'a', 'champ']"
+333,LAURIE,This is regularly splendid.,"['this', 'is', 'regularly', 'splendid']"
+334,JO,"Oh, hello.","['oh', 'hello']"
+335,LAURIE,What are you two doing up there?,"['what', 'are', 'you', 'two', 'doing', 'up', 'there']"
+336,AMY,No.,['no']
+337,LAURIE,"Well, have you had refreshments?","['well', 'have', 'you', 'had', 'refreshments']"
+338,BETH,"No, thank you.","['no', 'thank', 'you']"
+339,LAURIE,Well bring some right up.,"['well', 'bring', 'some', 'right', 'up']"
+340,MEG,"And then when Laurie goes to college, what becomes of you?","['and', 'then', 'when', 'laurie', 'goes', 'to', 'college', 'what', 'becomes', 'of', 'you']"
+341,MEG,Oh.,['oh']
+342,MEG,Laurie and his grandfather would care a great deal.,"['laurie', 'and', 'his', 'grandfather', 'would', 'care', 'a', 'great', 'deal']"
+343,JO,Here we go!,"['here', 'we', 'go']"
+344,LAURIE,"Oh, Jo.","['oh', 'jo']"
+345,AMY,Now youve done it!,"['now', 'youve', 'done', 'it']"
+346,JO,Megs gloves!,"['megs', 'gloves']"
+347,LAURIE,What _cIts a shame.,"['what', 'cits', 'a', 'shame']"
+348,JO,What a blunder bus I am!,"['what', 'a', 'blunder', 'bus', 'i', 'am']"
+349,AMY,What are you going to do?,"['what', 'are', 'you', 'going', 'to', 'do']"
+350,MEG,Ill ask Marmee.,"['ill', 'ask', 'marmee']"
+351,LAURIE,Oh?,['oh']
+352,MEG,Oh?,['oh']
+353,LAURIE,"Well, time slips away, you know?","['well', 'time', 'slips', 'away', 'you', 'know']"
+354,MEG,"Good night, Mr. Brooke.","['good', 'night', 'mr', 'brooke']"
+355,BETH,Good night.,"['good', 'night']"
+356,LAURIE,"Good night, Beth.","['good', 'night', 'beth']"
+357,AMY,We had an elegant time.,"['we', 'had', 'an', 'elegant', 'time']"
+358,LAURIE,"Good night, Amy.","['good', 'night', 'amy']"
+359,MEG,"Good night, Laurie.","['good', 'night', 'laurie']"
+360,LAURIE,"Good night, Miss Margaret.","['good', 'night', 'miss', 'margaret']"
+361,MEG,"Laurie _c..
+
+LAURIE
+Good night, everybody.","['laurie', 'c', 'laurie', 'good', 'night', 'everybody']"
+362,LAURIE,"Good night, everybody.","['good', 'night', 'everybody']"
+363,LAURIE,I wont.,"['i', 'wont']"
+364,JO,There.,['there']
+365,BETH,Its a pair of slippers I worked for Mr. Laurence.,"['its', 'a', 'pair', 'of', 'slippers', 'i', 'worked', 'for', 'mr', 'laurence']"
+366,JO,"They are beautiful, and I think you are sweet.","['they', 'are', 'beautiful', 'and', 'i', 'think', 'you', 'are', 'sweet']"
+367,BETH,Yes.,['yes']
+368,JO,You think!,"['you', 'think']"
+369,LAURIE,Now Ill find out why you come down to this hole every day.,"['now', 'ill', 'find', 'out', 'why', 'you', 'come', 'down', 'to', 'this', 'hole', 'every', 'day']"
+370,JO,Laurie Laurence.,"['laurie', 'laurence']"
+371,LAURIE,Alright.,['alright']
+372,JO,"Well, this is all together different.","['well', 'this', 'is', 'all', 'together', 'different']"
+373,LAURIE,Ye_c Oh!,"['ye', 'c', 'oh']"
+374,JO,I beg your pardon.,"['i', 'beg', 'your', 'pardon']"
+375,LAURIE,Sorry.,['sorry']
+376,LAURIE,Of course its different.,"['of', 'course', 'its', 'different']"
+377,JO,"Oh, bilge.","['oh', 'bilge']"
+378,LAURIE,Youll be sorry.,"['youll', 'be', 'sorry']"
+379,JO,"Oh, what?","['oh', 'what']"
+380,LAURIE,"If I tell you, you must tell me yours.","['if', 'i', 'tell', 'you', 'you', 'must', 'tell', 'me', 'yours']"
+381,JO,"You wont tell anything at home, will you?","['you', 'wont', 'tell', 'anything', 'at', 'home', 'will', 'you']"
+382,LAURIE,Not a word.,"['not', 'a', 'word']"
+383,JO,And you wont tease me about it in private?,"['and', 'you', 'wont', 'tease', 'me', 'about', 'it', 'in', 'private']"
+384,LAURIE,Ill never tease.,"['ill', 'never', 'tease']"
+385,JO,I sold my story to the Spread Eagle.,"['i', 'sold', 'my', 'story', 'to', 'the', 'spread', 'eagle']"
+386,LAURIE,Hurrah for Miss March!,"['hurrah', 'for', 'miss', 'march']"
+387,JO,I didnt want anyone to know until its out.,"['i', 'didnt', 'want', 'anyone', 'to', 'know', 'until', 'its', 'out']"
+388,LAURIE,Wouldnt it be fun to see it in print?,"['wouldnt', 'it', 'be', 'fun', 'to', 'see', 'it', 'in', 'print']"
+389,JO,"Now, whats yours?","['now', 'whats', 'yours']"
+390,LAURIE,I know where Megs glove is.,"['i', 'know', 'where', 'megs', 'glove', 'is']"
+391,JO,"Oh, is that all?","['oh', 'is', 'that', 'all']"
+392,LAURIE,Wait till you hear where it is.,"['wait', 'till', 'you', 'hear', 'where', 'it', 'is']"
+393,JO,Where?,['where']
+394,LAURIE,I saw it.,"['i', 'saw', 'it']"
+395,JO,Where?,['where']
+396,LAURIE,Pocket!,['pocket']
+397,JO,All this time?,"['all', 'this', 'time']"
+398,LAURIE,Isnt it romantic?,"['isnt', 'it', 'romantic']"
+399,JO,Romantic?,['romantic']
+400,LAURIE,It doesnt spoil any fun!,"['it', 'doesnt', 'spoil', 'any', 'fun']"
+401,JO,Id like to see anybody try it.,"['id', 'like', 'to', 'see', 'anybody', 'try', 'it']"
+402,LAURIE,Would you?,"['would', 'you']"
+403,JO,You should have seen_c.,"['you', 'should', 'have', 'seen', 'c']"
+404,MEG,Thank you.,"['thank', 'you']"
+405,JO,"Good-bye, Mr. Brooke.","['good', 'bye', 'mr', 'brooke']"
+406,MEG,"Good afternoon, Mr. Brooke.","['good', 'afternoon', 'mr', 'brooke']"
+407,MEG,Good afternoon.,"['good', 'afternoon']"
+408,LAURIE,Margaret.,['margaret']
+409,LAURIE,Right.,['right']
+410,MEG,Ive never been so embarrassed in my life.,"['ive', 'never', 'been', 'so', 'embarrassed', 'in', 'my', 'life']"
+411,JO,Not until Im old and stiff and have to use a crutch.,"['not', 'until', 'im', 'old', 'and', 'stiff', 'and', 'have', 'to', 'use', 'a', 'crutch']"
+412,BETH,Jo.,['jo']
+413,JO,Hello Bethy.,"['hello', 'bethy']"
+414,BETH,"Hello, Jo.","['hello', 'jo']"
+415,JO,Hows my girl?,"['hows', 'my', 'girl']"
+416,JO,What is it?,"['what', 'is', 'it']"
+417,BETH,For_c For me?,"['for', 'c', 'for', 'me']"
+418,AMY,Look.,['look']
+419,JO,Ill read it.,"['ill', 'read', 'it']"
+420,AMY,Isnt that elegant.,"['isnt', 'that', 'elegant']"
+421,JO,"""Ive had many pairs of slippers in my life, but none has suited 
+as well as yours.","['ive', 'had', 'many', 'pairs', 'of', 'slippers', 'in', 'my', 'life', 'but', 'none', 'has', 'suited', 'as', 'well', 'as', 'yours']"
+422,AMY,Youll have to thank him.,"['youll', 'have', 'to', 'thank', 'him']"
+423,BETH,Yes.,['yes']
+424,HANNAH,"Well, I wish I may die.","['well', 'i', 'wish', 'i', 'may', 'die']"
+425,MR. LAURENCE,Come in.,"['come', 'in']"
+426,BETH,"I_c I came to thank you, sir.","['i', 'c', 'i', 'came', 'to', 'thank', 'you', 'sir']"
+427,HANNAH,Miss March.,"['miss', 'march']"
+428,MRS. MARCH,Its father.,"['its', 'father']"
+429,AMY,Mother.,['mother']
+430,MRS. MARCH,Hes in the hospital.,"['hes', 'in', 'the', 'hospital']"
+431,MRS. MARCH,"Put those in the corner, dear.","['put', 'those', 'in', 'the', 'corner', 'dear']"
+432,BETH,"Alright, Marmee.","['alright', 'marmee']"
+433,MRS. MARCH,What on earth is keeping Joe?,"['what', 'on', 'earth', 'is', 'keeping', 'joe']"
+434,MEG,"This is all packed, Marmee.","['this', 'is', 'all', 'packed', 'marmee']"
+435,MRS. MARCH,"Thank you, dear.","['thank', 'you', 'dear']"
+436,MR. LAURENCE,Here we are.,"['here', 'we', 'are']"
+437,MRS. MARCH,Oh.,['oh']
+438,MR. LAURENCE,And I hope he finds this dressing gown useful.,"['and', 'i', 'hope', 'he', 'finds', 'this', 'dressing', 'gown', 'useful']"
+439,MRS. MARCH,Thank you.,"['thank', 'you']"
+440,MR. LAURENCE,"Well, everythings arranged, and Brooke will go with you.","['well', 'everythings', 'arranged', 'and', 'brooke', 'will', 'go', 'with', 'you']"
+441,MRS. MARCH,Theres no need.,"['theres', 'no', 'need']"
+442,MR. LAURENCE,"Oh, hes all prepared.","['oh', 'hes', 'all', 'prepared']"
+443,MRS. MARCH,How thoughtful of you!,"['how', 'thoughtful', 'of', 'you']"
+444,MEG,"Its such a relief to know that Marmee will have someone to take 
+care of her.","['its', 'such', 'a', 'relief', 'to', 'know', 'that', 'marmee', 'will', 'have', 'someone', 'to', 'take', 'care', 'of', 'her']"
+445,MRS. MARCH,My kind friend.,"['my', 'kind', 'friend']"
+446,MR. LAURENCE,Lauries outside with the carriage.,"['lauries', 'outside', 'with', 'the', 'carriage']"
+447,HANNAH,"Here, maam.","['here', 'maam']"
+448,MRS. MARCH,"Oh, I couldnt.","['oh', 'i', 'couldnt']"
+449,AMY,"Oh, Marmee.","['oh', 'marmee']"
+450,MRS. MARCH,Where is Jo?,"['where', 'is', 'jo']"
+451,AMY,What ever took you so long?,"['what', 'ever', 'took', 'you', 'so', 'long']"
+452,JO,Heres the money from Aunt March.,"['heres', 'the', 'money', 'from', 'aunt', 'march']"
+453,MRS. MARCH,$25.,['25']
+454,JO,"Oh, its mine, honestly.","['oh', 'its', 'mine', 'honestly']"
+455,MRS. MARCH,Your hair!,"['your', 'hair']"
+456,JO,"Oh well, Aunt March croaked as she always does when asked for 
+ninepence.","['oh', 'well', 'aunt', 'march', 'croaked', 'as', 'she', 'always', 'does', 'when', 'asked', 'for', 'ninepence']"
+457,MRS. MARCH,"Thank you, deary.","['thank', 'you', 'deary']"
+458,LAURIE,"Are you ready, Marmee?","['are', 'you', 'ready', 'marmee']"
+459,JO,Well.,['well']
+460,AMY,"Yes, darling.","['yes', 'darling']"
+461,MRS. MARCH,"Now, girls.","['now', 'girls']"
+462,MRS. MARCH,Do everything that Hannah tells you.,"['do', 'everything', 'that', 'hannah', 'tells', 'you']"
+463,BETH,"Oh, cant we go to the train with you, Marmee?","['oh', 'cant', 'we', 'go', 'to', 'the', 'train', 'with', 'you', 'marmee']"
+464,MRS. MARCH,No.,['no']
+465,MRS. MARCH,God bless us and keep us all.,"['god', 'bless', 'us', 'and', 'keep', 'us', 'all']"
+466,MEG,"Jo, are you awake.","['jo', 'are', 'you', 'awake']"
+467,JO,"No, Im not.","['no', 'im', 'not']"
+468,MEG,"Dont cry, dear.","['dont', 'cry', 'dear']"
+469,JO,Im not crying because of that.,"['im', 'not', 'crying', 'because', 'of', 'that']"
+470,MEG,What is it then?,"['what', 'is', 'it', 'then']"
+471,JO,My hair.,"['my', 'hair']"
+472,JO,_c.,['c']
+473,AMY,"Oh, it gives me the shivers.","['oh', 'it', 'gives', 'me', 'the', 'shivers']"
+474,MEG,Its so exciting and so sad.,"['its', 'so', 'exciting', 'and', 'so', 'sad']"
+475,LAURIE,Your sister.,"['your', 'sister']"
+476,LAURIE,And I knew it all the time.,"['and', 'i', 'knew', 'it', 'all', 'the', 'time']"
+477,MEG,Isnt that wonderful.,"['isnt', 'that', 'wonderful']"
+478,AMY,Here it is.,"['here', 'it', 'is']"
+479,BETH,Dont come near me.,"['dont', 'come', 'near', 'me']"
+480,AMY,Meg.,['meg']
+481,MEG,What is it?,"['what', 'is', 'it']"
+482,AMY,I dont know.,"['i', 'dont', 'know']"
+483,MEG,Where is she?,"['where', 'is', 'she']"
+484,AMY,In Marmees cupboard.,"['in', 'marmees', 'cupboard']"
+485,LAURIE,Whats wrong?,"['whats', 'wrong']"
+486,JO,"Darling, what is it?","['darling', 'what', 'is', 'it']"
+487,MEG,"Whats wrong, Bethy?","['whats', 'wrong', 'bethy']"
+488,JO,What is it?,"['what', 'is', 'it']"
+489,BETH,"Oh, Jo.","['oh', 'jo']"
+490,JO,What baby?,"['what', 'baby']"
+491,BETH,Mrs. Hummels.,"['mrs', 'hummels']"
+492,JO,Oh my poor Beth.,"['oh', 'my', 'poor', 'beth']"
+493,BETH,The doctor said it was _c.. it was scarlet fever.,"['the', 'doctor', 'said', 'it', 'was', 'c', 'it', 'was', 'scarlet', 'fever']"
+494,MEG,Scarlet Fever?,"['scarlet', 'fever']"
+495,AMY,Hannah!,['hannah']
+496,BETH,"You dont think Ill get it, do you, Jo?","['you', 'dont', 'think', 'ill', 'get', 'it', 'do', 'you', 'jo']"
+497,JO,"Oh, no, Bethy.","['oh', 'no', 'bethy']"
+498,BETH,But_c.,"['but', 'c']"
+499,JO,I dont remember.,"['i', 'dont', 'remember']"
+500,MEG,"Jo, I think wed better get her to bed.","['jo', 'i', 'think', 'wed', 'better', 'get', 'her', 'to', 'bed']"
+501,JO,Ill find out what to do.,"['ill', 'find', 'out', 'what', 'to', 'do']"
+502,BETH,"Ill be alright, Meg.","['ill', 'be', 'alright', 'meg']"
+503,MEG,Come on Bethy.,"['come', 'on', 'bethy']"
+504,LAURIE,Of course youll be alright.,"['of', 'course', 'youll', 'be', 'alright']"
+505,JO,"Oh, here it is.","['oh', 'here', 'it', 'is']"
+506,HANNAH,For lands sakes!,"['for', 'lands', 'sakes']"
+507,LAURIE,Alright.,['alright']
+508,HANNAH,Have him come over as soon as he can.,"['have', 'him', 'come', 'over', 'as', 'soon', 'as', 'he', 'can']"
+509,LAURIE,Yes.,['yes']
+510,HANNAH,You stay down here Amy.,"['you', 'stay', 'down', 'here', 'amy']"
+511,AMY,"No, I wont.","['no', 'i', 'wont']"
+512,JO,"Oh, be quiet for once, Amy.","['oh', 'be', 'quiet', 'for', 'once', 'amy']"
+513,AMY,Im not going to be sent away as though I were in the way.,"['im', 'not', 'going', 'to', 'be', 'sent', 'away', 'as', 'though', 'i', 'were', 'in', 'the', 'way']"
+514,LAURIE,"Well, I advise you to go.","['well', 'i', 'advise', 'you', 'to', 'go']"
+515,AMY,"Well, I dont care.","['well', 'i', 'dont', 'care']"
+516,LAURIE,Oh.,['oh']
+517,AMY,"Id rather get Scarlet Fever and die, than go to Aunt Marchs.","['id', 'rather', 'get', 'scarlet', 'fever', 'and', 'die', 'than', 'go', 'to', 'aunt', 'marchs']"
+518,LAURIE,"Now, Amy.","['now', 'amy']"
+519,AMY,Well _c..,"['well', 'c']"
+520,LAURIE,Thats our girl!,"['thats', 'our', 'girl']"
+521,JO,"Oh, Bethy.","['oh', 'bethy']"
+522,MEG,"No, its my fault.","['no', 'its', 'my', 'fault']"
+523,HANNAH,No.,['no']
+524,BETH,"Oh, please dont telegraph, Jo.","['oh', 'please', 'dont', 'telegraph', 'jo']"
+525,HANNAH,"The girls had the telegram all ready, but I wouldnt let them 
+send it, and now the poor lady _c.","['the', 'girls', 'had', 'the', 'telegram', 'all', 'ready', 'but', 'i', 'wouldnt', 'let', 'them', 'send', 'it', 'and', 'now', 'the', 'poor', 'lady', 'c']"
+526,JO,"Oh, Mother!","['oh', 'mother']"
+527,LAURIE,"Oh, Jo, is it that bad?","['oh', 'jo', 'is', 'it', 'that', 'bad']"
+528,JO,She doesnt know me.,"['she', 'doesnt', 'know', 'me']"
+529,LAURIE,Im here.,"['im', 'here']"
+530,JO,Were sending for Marmee.,"['were', 'sending', 'for', 'marmee']"
+531,LAURIE,She will be.,"['she', 'will', 'be']"
+532,JO,You?,['you']
+533,LAURIE,"Shell be here on the two oclock train tonight, and Im going to 
+meet her.","['shell', 'be', 'here', 'on', 'the', 'two', 'oclock', 'train', 'tonight', 'and', 'im', 'going', 'to', 'meet', 'her']"
+534,JO,"Oh, Laurie.","['oh', 'laurie']"
+535,LAURIE,Fly at me again.,"['fly', 'at', 'me', 'again']"
+536,JO,"Laurie, youre so silly.","['laurie', 'youre', 'so', 'silly']"
+537,LAURIE,I better go.,"['i', 'better', 'go']"
+538,JO,"Oh, bless you, Laurie.","['oh', 'bless', 'you', 'laurie']"
+539,JO,"If you really want Bethy, please wait until Marmee comes home.","['if', 'you', 'really', 'want', 'bethy', 'please', 'wait', 'until', 'marmee', 'comes', 'home']"
+540,MEG,"If God spares Bethy, Ill love him, and serve him all my life.","['if', 'god', 'spares', 'bethy', 'ill', 'love', 'him', 'and', 'serve', 'him', 'all', 'my', 'life']"
+541,JO,"If life is as hard as this, I dont see how we ever should get 
+through it.","['if', 'life', 'is', 'as', 'hard', 'as', 'this', 'i', 'dont', 'see', 'how', 'we', 'ever', 'should', 'get', 'through', 'it']"
+542,MEG,Hannah!,['hannah']
+543,HANNAH,What is it?,"['what', 'is', 'it']"
+544,JO,"Good-bye, my Bethy.","['good', 'bye', 'my', 'bethy']"
+545,HANNAH,Lord be praised.,"['lord', 'be', 'praised']"
+546,JO,Marmees here.,"['marmees', 'here']"
+547,AMY,Isnt it wonderful to have Bethy downstairs at last.,"['isnt', 'it', 'wonderful', 'to', 'have', 'bethy', 'downstairs', 'at', 'last']"
+548,JO,And see the lovely flowers that Mr. Laurence sent you.,"['and', 'see', 'the', 'lovely', 'flowers', 'that', 'mr', 'laurence', 'sent', 'you']"
+549,BETH,Oh.,['oh']
+550,LAURIE,Begging you pardon.,"['begging', 'you', 'pardon']"
+551,LAURIE,Waitll she sees what I brought for her.,"['waitll', 'she', 'sees', 'what', 'i', 'brought', 'for', 'her']"
+552,MEG,Bethy.,['bethy']
+553,HANNAH,Land sakes!,"['land', 'sakes']"
+554,MRS. MARCH,"Oh, my dear.","['oh', 'my', 'dear']"
+555,BETH,Father.,['father']
+556,MRS. MARCH,"Oh, my darling.","['oh', 'my', 'darling']"
+557,AMY,She hasnt walked since she was sick.,"['she', 'hasnt', 'walked', 'since', 'she', 'was', 'sick']"
+558,JO,Are you expecting someone?,"['are', 'you', 'expecting', 'someone']"
+559,MEG,"Why_c Why, no.","['why', 'c', 'why', 'no']"
+560,JO,Meg.,['meg']
+561,MEG,I dont intend to go and marry any man.,"['i', 'dont', 'intend', 'to', 'go', 'and', 'marry', 'any', 'man']"
+562,JO,"Oh, Meg.","['oh', 'meg']"
+563,MEG,Jo.,['jo']
+564,JO,And then thingsll be as they used to be.,"['and', 'then', 'thingsll', 'be', 'as', 'they', 'used', 'to', 'be']"
+565,JO,Ill go.,"['ill', 'go']"
+566,MEG,"Why, Mr. Brooke.","['why', 'mr', 'brooke']"
+567,MEG,Wont you come in?,"['wont', 'you', 'come', 'in']"
+568,MEG,Why_c hes here in the rack.,"['why', 'c', 'hes', 'here', 'in', 'the', 'rack']"
+569,MEG,Why _c.,"['why', 'c']"
+570,MEG,"Oh, no.","['oh', 'no']"
+571,MEG,"Oh, thank you, John.","['oh', 'thank', 'you', 'john']"
+572,MEG,Im afraid I cant.,"['im', 'afraid', 'i', 'cant']"
+573,AUNT MARCH,Huh?,['huh']
+574,MEG,Mr. Brooke.,"['mr', 'brooke']"
+575,AUNT MARCH,The Laurences boys tutor.,"['the', 'laurences', 'boys', 'tutor']"
+576,MEG,Shh.,['shh']
+577,AUNT MARCH,Oh?,['oh']
+578,MEG,Shh.,['shh']
+579,AUNT MARCH,I wont stop!,"['i', 'wont', 'stop']"
+580,MEG,Oh.,['oh']
+581,AUNT MARCH,Oh?,['oh']
+582,MEG,Aunt March!,"['aunt', 'march']"
+583,AUNT MARCH,"Hoity, toity!","['hoity', 'toity']"
+584,MEG,John?,['john']
+585,MEG,"Yes, John.","['yes', 'john']"
+586,MEG,The first kiss for Marmee.,"['the', 'first', 'kiss', 'for', 'marmee']"
+587,AUNT MARCH,"Well, John.","['well', 'john']"
+588,LAURIE,"Good-bye, Amy.","['good', 'bye', 'amy']"
+589,JO,I know you will.,"['i', 'know', 'you', 'will']"
+590,LAURIE,Jo.,['jo']
+591,JO,"Oh, no.","['oh', 'no']"
+592,LAURIE,I will.,"['i', 'will']"
+593,JO,I know.,"['i', 'know']"
+594,LAURIE,Then wont you listen.,"['then', 'wont', 'you', 'listen']"
+595,JO,"As though Id change you, Laurie.","['as', 'though', 'id', 'change', 'you', 'laurie']"
+596,LAURIE,"Oh, no, we shouldnt.","['oh', 'no', 'we', 'shouldnt']"
+597,JO,"Oh, yes.","['oh', 'yes']"
+598,LAURIE,Marry?,['marry']
+599,JO,I cant.,"['i', 'cant']"
+600,LAURIE,"Really truly, Jo?","['really', 'truly', 'jo']"
+601,JO,"Really truly, dear.","['really', 'truly', 'dear']"
+602,LAURIE,"Oh, yes.","['oh', 'yes']"
+603,JO,"Laurie, where are you going?","['laurie', 'where', 'are', 'you', 'going']"
+604,LAURIE,"To the devil, and I hope youll be sorry.","['to', 'the', 'devil', 'and', 'i', 'hope', 'youll', 'be', 'sorry']"
+605,JO,"Laurie, please _c.","['laurie', 'please', 'c']"
+606,MRS. MARCH,"Jo, why arent you in bed?","['jo', 'why', 'arent', 'you', 'in', 'bed']"
+607,JO,Mother.,['mother']
+608,MRS. MARCH,Where would you hop?,"['where', 'would', 'you', 'hop']"
+609,JO,To New York.,"['to', 'new', 'york']"
+610,MRS. MARCH,I dont doubt it.,"['i', 'dont', 'doubt', 'it']"
+611,JO,"Oh, Marmee.","['oh', 'marmee']"
+612,MRS. MARCH,I see.,"['i', 'see']"
+613,JO,"I love him dearly, as I always have.","['i', 'love', 'him', 'dearly', 'as', 'i', 'always', 'have']"
+614,MRS. MARCH,"Youre right, Jo.","['youre', 'right', 'jo']"
+615,JO,"Good night, Marmee.","['good', 'night', 'marmee']"
+616,JO,Thats good.,"['thats', 'good']"
+617,JO,How do you do?,"['how', 'do', 'you', 'do']"
+618,JO,"Oh, no.","['oh', 'no']"
+619,JO,What does he do?,"['what', 'does', 'he', 'do']"
+620,JO,Please dont stop.,"['please', 'dont', 'stop']"
+621,JO,My senses fail.,"['my', 'senses', 'fail']"
+622,JO,"Oh, if only I could write something like that.","['oh', 'if', 'only', 'i', 'could', 'write', 'something', 'like', 'that']"
+623,JO,"Yes, thats my longing.","['yes', 'thats', 'my', 'longing']"
+624,JO,"Oh, would you?","['oh', 'would', 'you']"
+625,JO,"Oh, what shall I ask for at the music shop?","['oh', 'what', 'shall', 'i', 'ask', 'for', 'at', 'the', 'music', 'shop']"
+626,JO,"""Nur wer die_c""
+
+PROFESSOR
+""Sehnsucht""
+
+JO
+""Sehnsucht""
+
+PROFESSOR
+Haha.","['nur', 'wer', 'die', 'c', 'professor', 'sehnsucht', 'jo', 'sehnsucht', 'professor', 'haha']"
+627,JO,"Oh, let me sew that button for you, before you lose it.","['oh', 'let', 'me', 'sew', 'that', 'button', 'for', 'you', 'before', 'you', 'lose', 'it']"
+628,JO,"Not very well, evidently.","['not', 'very', 'well', 'evidently']"
+629,JO,Who was Goldilocks?,"['who', 'was', 'goldilocks']"
+630,JO,"And she_c
+
+TINA
+And she_c
+
+JO
+_cwent into their house.","['and', 'she', 'c', 'tina', 'and', 'she', 'c', 'jo', 'cwent', 'into', 'their', 'house']"
+631,JO,_cand saw three chairs.,"['cand', 'saw', 'three', 'chairs']"
+632,JO,_cthree chairs.,"['cthree', 'chairs']"
+633,JO,Uh huh.,"['uh', 'huh']"
+634,JO,Who is it?,"['who', 'is', 'it']"
+635,JO,"All right, children, thatll be all for today.","['all', 'right', 'children', 'thatll', 'be', 'all', 'for', 'today']"
+636,JO,All right.,"['all', 'right']"
+637,JO,"Yes, if you want to.","['yes', 'if', 'you', 'want', 'to']"
+638,JO,Then its true.,"['then', 'its', 'true']"
+639,AMY,Darling.,['darling']
+640,JO,"Oh, ma_c
+
+AUNT MARCH
+Now, Josephine.","['oh', 'ma', 'c', 'aunt', 'march', 'now', 'josephine']"
+641,AUNT MARCH,"Now, Josephine.","['now', 'josephine']"
+642,JO,"Oh, Im so glad to see you.","['oh', 'im', 'so', 'glad', 'to', 'see', 'you']"
+643,AUNT MARCH,Sit down here.,"['sit', 'down', 'here']"
+644,JO,Tell me everything.,"['tell', 'me', 'everything']"
+645,AUNT MARCH,We cant stop now.,"['we', 'cant', 'stop', 'now']"
+646,JO,"Shipping office, Aunt March?","['shipping', 'office', 'aunt', 'march']"
+647,AUNT MARCH,Taking Amy with me.,"['taking', 'amy', 'with', 'me']"
+648,JO,Next time?,"['next', 'time']"
+649,AMY,Shes better again but she isnt rosy as she used to be.,"['shes', 'better', 'again', 'but', 'she', 'isnt', 'rosy', 'as', 'she', 'used', 'to', 'be']"
+650,JO,"Oh, my poor Beth.","['oh', 'my', 'poor', 'beth']"
+651,AMY,Why didnt you see them when they were here?,"['why', 'didnt', 'you', 'see', 'them', 'when', 'they', 'were', 'here']"
+652,JO,Laurie in New York?,"['laurie', 'in', 'new', 'york']"
+653,AUNT MARCH,Im sure you cant blame him.,"['im', 'sure', 'you', 'cant', 'blame', 'him']"
+654,AMY,"Oh, Jo, dear.","['oh', 'jo', 'dear']"
+655,JO,"Oh, no, darling.","['oh', 'no', 'darling']"
+656,AUNT MARCH,"Amy, you seem to forget waiting cabs cost money.","['amy', 'you', 'seem', 'to', 'forget', 'waiting', 'cabs', 'cost', 'money']"
+657,JO,"Good bye, darling.","['good', 'bye', 'darling']"
+658,JO,"Yes, Professor Bhaer.","['yes', 'professor', 'bhaer']"
+659,JO,"Ah, yes.","['ah', 'yes']"
+660,JO,"(cries)
+
+PROFESSOR
+What?","['cries', 'professor', 'what']"
+661,JO,"No, it isnt that.","['no', 'it', 'isnt', 'that']"
+662,JO,"Oh, no, no.","['oh', 'no', 'no']"
+663,JO,Yes.,['yes']
+664,JO,"Oh, no, no, no.","['oh', 'no', 'no', 'no']"
+665,JO,"Oh, no.","['oh', 'no']"
+666,JO,"Oh, no, no.","['oh', 'no', 'no']"
+667,JO,No.,['no']
+668,JO,"Oh, yes.","['oh', 'yes']"
+669,JO,Ah.,['ah']
+670,JO,"Oh, peppermint.","['oh', 'peppermint']"
+671,JO,"Oh, thank you.","['oh', 'thank', 'you']"
+672,JO,How could I be?,"['how', 'could', 'i', 'be']"
+673,JO,Ive never had so much fun.,"['ive', 'never', 'had', 'so', 'much', 'fun']"
+674,JO,She was divine.,"['she', 'was', 'divine']"
+675,JO,I know but to sing like that.,"['i', 'know', 'but', 'to', 'sing', 'like', 'that']"
+676,JO,"Id say, ""Look at me, world.","['id', 'say', 'look', 'at', 'me', 'world']"
+677,JO,"But you, youre responsible for that.","['but', 'you', 'youre', 'responsible', 'for', 'that']"
+678,JO,Wonderful.,['wonderful']
+679,JO,Yes.,['yes']
+680,JO,Only through Amy.,"['only', 'through', 'amy']"
+681,JO,"Why, yes.","['why', 'yes']"
+682,JO,Yes.,['yes']
+683,JO,Its Beth.,"['its', 'beth']"
+684,JO,"No, theres, theres nothing.","['no', 'theres', 'theres', 'nothing']"
+685,BETH,"Oh, Jo, to think youre home.","['oh', 'jo', 'to', 'think', 'youre', 'home']"
+686,JO,"Shell be home in the spring, darling.","['shell', 'be', 'home', 'in', 'the', 'spring', 'darling']"
+687,BETH,"Oh, poor Jo.","['oh', 'poor', 'jo']"
+688,BETH,Little love.,"['little', 'love']"
+689,MEG,Im afraid theyre tiring you.,"['im', 'afraid', 'theyre', 'tiring', 'you']"
+690,BETH,"Oh, no.","['oh', 'no']"
+691,MEG,But its time for my little regiment to take its nap.,"['but', 'its', 'time', 'for', 'my', 'little', 'regiment', 'to', 'take', 'its', 'nap']"
+692,BETH,Theyre sweet.,"['theyre', 'sweet']"
+693,JO,"Bethy, Bethy.","['bethy', 'bethy']"
+694,MRS. MARCH,Bethy.,['bethy']
+695,MRS. MARCH,"Bethy, Bethy.","['bethy', 'bethy']"
+696,JO,"No, no.","['no', 'no']"
+697,AMY,If only there were another boat leaving sooner.,"['if', 'only', 'there', 'were', 'another', 'boat', 'leaving', 'sooner']"
+698,AUNT MARCH,"Now, my dear, youve been so brave.","['now', 'my', 'dear', 'youve', 'been', 'so', 'brave']"
+699,AMY,"I know, but Im sick for home, Aunt March.","['i', 'know', 'but', 'im', 'sick', 'for', 'home', 'aunt', 'march']"
+700,MR. LAURENCE,My child.,"['my', 'child']"
+701,AMY,Mr. Laurence.,"['mr', 'laurence']"
+702,LAURIE,"Amy, we were in Germany dear, and Marmees letter had to be 
+forwarded, but I came the moment I got it, because, well, you 
+must comfort me now, too.","['amy', 'we', 'were', 'in', 'germany', 'dear', 'and', 'marmees', 'letter', 'had', 'to', 'be', 'forwarded', 'but', 'i', 'came', 'the', 'moment', 'i', 'got', 'it', 'because', 'well', 'you', 'must', 'comfort', 'me', 'now', 'too']"
+703,AUNT MARCH,Im thankful youre here.,"['im', 'thankful', 'youre', 'here']"
+704,JO,"Ah, the elegant young matron.","['ah', 'the', 'elegant', 'young', 'matron']"
+705,MEG,"Hello, Jo, dear.","['hello', 'jo', 'dear']"
+706,JO,"And you want me to mind the little demons for you while you are 
+gone?","['and', 'you', 'want', 'me', 'to', 'mind', 'the', 'little', 'demons', 'for', 'you', 'while', 'you', 'are', 'gone']"
+707,MEG,No.,['no']
+708,JO,"Well, talk to me now.","['well', 'talk', 'to', 'me', 'now']"
+709,MEG,Hows your story coming?,"['hows', 'your', 'story', 'coming']"
+710,JO,Sent it off yesterday.,"['sent', 'it', 'off', 'yesterday']"
+711,MEG,Without us reading it?,"['without', 'us', 'reading', 'it']"
+712,JO,"Well, you can read it when they send it back.","['well', 'you', 'can', 'read', 'it', 'when', 'they', 'send', 'it', 'back']"
+713,MEG,"Oh, Jo, I had a letter from Amy.","['oh', 'jo', 'i', 'had', 'a', 'letter', 'from', 'amy']"
+714,JO,So did Marmee.,"['so', 'did', 'marmee']"
+715,MEG,"Theyre in Val Rosa now, she say its at a paradise.","['theyre', 'in', 'val', 'rosa', 'now', 'she', 'say', 'its', 'at', 'a', 'paradise']"
+716,JO,"Meg, who?","['meg', 'who']"
+717,MEG,Of course I dont know.,"['of', 'course', 'i', 'dont', 'know']"
+718,JO,"Oh, no, Meg.","['oh', 'no', 'meg']"
+719,MEG,"Yes, but I wasnt quite sure.","['yes', 'but', 'i', 'wasnt', 'quite', 'sure']"
+720,JO,"Oh, no, no, dear.","['oh', 'no', 'no', 'dear']"
+721,JO,"Laurie, oh, my Laurie.","['laurie', 'oh', 'my', 'laurie']"
+722,LAURIE,"Oh, Jo, dear.","['oh', 'jo', 'dear']"
+723,JO,Glad?,['glad']
+724,LAURIE,"Oh, they all stopped in at Megs, but I couldnt wait to see you.","['oh', 'they', 'all', 'stopped', 'in', 'at', 'megs', 'but', 'i', 'couldnt', 'wait', 'to', 'see', 'you']"
+725,JO,"Oh, let me look at you.","['oh', 'let', 'me', 'look', 'at', 'you']"
+726,LAURIE,"Oh, dont I look like a married man, and the head of a family?","['oh', 'dont', 'i', 'look', 'like', 'a', 'married', 'man', 'and', 'the', 'head', 'of', 'a', 'family']"
+727,JO,Not a bit.,"['not', 'a', 'bit']"
+728,LAURIE,Ah.,['ah']
+729,JO,But youre the same scape grace as ever.,"['but', 'youre', 'the', 'same', 'scape', 'grace', 'as', 'ever']"
+730,LAURIE,"Oh, really, Jo.","['oh', 'really', 'jo']"
+731,JO,"Oh, no, darling, if you_c I think it has always meant to be.","['oh', 'no', 'darling', 'if', 'you', 'c', 'i', 'think', 'it', 'has', 'always', 'meant', 'to', 'be']"
+732,LAURIE,As you tried to make me understand.,"['as', 'you', 'tried', 'to', 'make', 'me', 'understand']"
+733,JO,But you never could be patient.,"['but', 'you', 'never', 'could', 'be', 'patient']"
+734,LAURIE,"So then we can go back to the happy old times, the way you 
+wanted, when we first knew one another.","['so', 'then', 'we', 'can', 'go', 'back', 'to', 'the', 'happy', 'old', 'times', 'the', 'way', 'you', 'wanted', 'when', 'we', 'first', 'knew', 'one', 'another']"
+735,JO,No.,['no']
+736,MRS. MARCH,"You look very well, Aunt March.","['you', 'look', 'very', 'well', 'aunt', 'march']"
+737,AUNT MARCH,"After all the money Ive spent on my Rheumatism, I come home on a 
+day like this.","['after', 'all', 'the', 'money', 'ive', 'spent', 'on', 'my', 'rheumatism', 'i', 'come', 'home', 'on', 'a', 'day', 'like', 'this']"
+738,HANNAH,Heavens to Betsy!,"['heavens', 'to', 'betsy']"
+739,AMY,"Oh, where is she?","['oh', 'where', 'is', 'she']"
+740,JO,Amy.,['amy']
+741,LAURIE,"Doesnt she look marvelous, Jo.","['doesnt', 'she', 'look', 'marvelous', 'jo']"
+742,AMY,Poor Jo.,"['poor', 'jo']"
+743,JO,Darling.,['darling']
+744,AUNT MARCH,"Spent all my money and didnt have anything decent to eat the 
+whole time.","['spent', 'all', 'my', 'money', 'and', 'didnt', 'have', 'anything', 'decent', 'to', 'eat', 'the', 'whole', 'time']"
+745,MRS. MARCH,You must be famished.,"['you', 'must', 'be', 'famished']"
+746,JO,"Oh, no, you wont, Marmee.","['oh', 'no', 'you', 'wont', 'marmee']"
+747,JO,"Its fun, isnt it, Bethy?","['its', 'fun', 'isnt', 'it', 'bethy']"
+748,JO,Ill go.,"['ill', 'go']"
+749,JO,I love it.,"['i', 'love', 'it']"
+750,JO,"Oh, Herr Professor.","['oh', 'herr', 'professor']"
+751,JO,"Oh, never mind what he thinks.","['oh', 'never', 'mind', 'what', 'he', 'thinks']"
+752,JO,But you were going without telling me.,"['but', 'you', 'were', 'going', 'without', 'telling', 'me']"
+753,JO,"Oh, no, only my family.","['oh', 'no', 'only', 'my', 'family']"
+754,JO,Yes.,['yes']
+755,JO,Its the first time theyve been together for a long time.,"['its', 'the', 'first', 'time', 'theyve', 'been', 'together', 'for', 'a', 'long', 'time']"
+756,JO,Theyre not empty now.,"['theyre', 'not', 'empty', 'now']"
+757,JO,Welcome home.,"['welcome', 'home']"
