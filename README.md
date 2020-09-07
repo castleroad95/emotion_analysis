@@ -32,24 +32,36 @@ size=300으로 벡터크기 설정하였고, min_count=5 설정하여 최소 5�
 ### 문자 Encoding
 - 토큰화(tokenize)
 
-트윗 전처리한 문자를 정수 인덱스벡터 형태로 변환한다.
+Tokenizer을 사용하여 트윗 전처리한 문자를 정수 인덱스벡터 형태로 변환한다.
 - pad_sequence()
 
 maxlen=300을 다 못채우는 벡터 크기를 앞에서 부터 값을 0을 넣어 채워 모두 동일하게 maxlen 벡터 크기를 갖게 만든다.
 - LabelEncoding
 
-문자를 숫자로 수치화 시킨다.
+LabelEncoder을 사용하여 문자를 숫자로 수치화 시킨다.
+
 ### 모델 생성 및 훈련
 - RNN_LSTM
 
 RNN은 은닉층에 방향을 가진 엣지로 연결돼 순환구조를 이루는 인공 신경망으로 시퀀스 길이에 관계없이 input, ouput을 받아들일 수 있는 네트워크 구조이다.
-LSTM은 RNN이 갖고 있는 vanishing gradient problem(관련 정보와 그 정보를 사용하는 지점 사이가 멀 경우 역전파시 그래디언트가 줄어 학습능력저하)를 극복한다.
-- dropout
+
+LSTM은 RNN이 갖고 있는 vanishing gradient problem(관련 정보와 그 정보를 사용하는 지점 사이가 멀 경우 역전파시 그래디언트가 줄어 학습능력저하)를 극복하기 위해 고안되었다. RNN의 은닉층에 cell-state를 추가한 구조로 state가 오래 지나도 그래디언트 전파가 잘 된다.
+- Dropout
 
 네트워크의 일부를 생략하는 것으로 정규화(regularization) 효과를 갖는다. 동조화 되는 현상을 피할 수 있으며 response time의 시간을 줄여준다.
-- embedding layer
+- Embedding layer
 
 입력 정수에 대해 밀집 벡터로 맵핑하고 인공 신경망의 학습 과정에서 가중치가 학습되는 방식으로 훈련된다. 즉 특정 단어와 맵핑되는 정수를 인덱스로 갖는 테이블로 부터 embedding 벡터 값을 갖는 룩업 테이블이다. 모든 단어는 고유한 임베딩 벡터를 갖는다.
-- dense
+- Dense
 
 입력과 출력을 모두 연결해주며 각 연결선에 가중치(weight)을 포함하여 연결강도를 나타낸다. 첫번째 인자는 출력 뉴련의 수를 설정, activation으로 활성화 함수를 설정한다. relu는 은익층에 주로 쓰이고 sigmoid는 이진 분류 출력층에, softmax는 다중 클래스 분류 출력층에 쓰인다.
+
+- 모델 훈련 설정
+
+범주형 변수를 예측할며 카테고리가 2개 임으로 loss= binary_crossentropy를 설정 하였다. 
+
+optimizer(최적화)는  Adagrad + RMSProp의 장점을 섞어놓은 adam을 사용하였다. 즉 그레디언트, 학습률도 적당하게 한 것이다.
+
+Batch size가 클수록 그래디언트가 정확해지지만 한 iteration에 대한 계산량이 늘어나게 된다. 반면 너무 크면 오래전 값을 사용하여 부정확해진다. batch_size를 1024로 설정하였다. 
+
+epochs는 전체 데이터의 학습 횟수라 할 수 있다. 너무 크면 overfitting되고 너무 적으면 underfitting 된다.
